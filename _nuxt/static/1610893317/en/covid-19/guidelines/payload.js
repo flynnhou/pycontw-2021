@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/covid-19/guidelines", {data:[{}],fetch:[],mutations:void 0});

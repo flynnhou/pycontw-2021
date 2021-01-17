@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/zh/conference/keynotes", {data:[{}],fetch:[],mutations:void 0});

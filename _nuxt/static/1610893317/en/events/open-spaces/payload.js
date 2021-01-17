@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/events/open-spaces", {data:[{}],fetch:[],mutations:void 0});

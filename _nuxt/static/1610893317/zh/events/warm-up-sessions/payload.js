@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/zh/events/warm-up-sessions", {data:[{}],fetch:[],mutations:void 0});
