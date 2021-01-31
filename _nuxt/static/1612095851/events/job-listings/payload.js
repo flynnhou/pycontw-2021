@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/job-listings", {data:[{jobsData:[]}],fetch:[],mutations:void 0});

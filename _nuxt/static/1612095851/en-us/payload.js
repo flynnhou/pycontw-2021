@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en-us", {data:[{sponsorsData:[]}],fetch:[],mutations:void 0});
