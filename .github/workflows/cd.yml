@@ -1,4 +1,4 @@
-name: Test, build, deploy
+name: cd
 on:
     push:
         branches:
