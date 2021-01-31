@@ -4,7 +4,7 @@ export default {
 
     // Re-route for GitHub Pages to serve with /assets
     router: {
-        base: process.env.NUXT_ENV_ROUTER_BASE,
+        base: '/',
     },
 
     // Global page headers (https://go.nuxtjs.dev/config-head)
