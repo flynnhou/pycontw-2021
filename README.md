@@ -4,8 +4,23 @@
 
 ```bash
 $ npm ci
+```
+
+#### Develop with local data server
+
+```bash
 $ npm run json-server
 $ npm run dev
+```
+
+#### Develop with staging/production API server
+
+```bash
+# staging
+$ ENV=staging npm run dev
+$
+# production
+$ ENV=production npm run dev
 ```
 
 ## Build Setup
