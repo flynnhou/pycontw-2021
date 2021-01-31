@@ -4,7 +4,7 @@ export default {
 
     // Re-route for GitHub Pages to serve with /assets
     router: {
-        base: process.env.ROUTER_BASE,
+        base: process.env.NUXT_ENV_ROUTER_BASE,
     },
 
     // Global page headers (https://go.nuxtjs.dev/config-head)
@@ -61,7 +61,7 @@ export default {
 
     // Axios module configuration (https://go.nuxtjs.dev/config-axios)
     axios: {
-        baseURL: process.env.BASE_URL,
+        baseURL: process.env.NUXT_ENV_BASE_URL,
     },
 
     // Build Configuration (https://go.nuxtjs.dev/config-build)
