@@ -3,12 +3,19 @@
         <locale-link to="/about" :class="getPageClassesByPath('about', true)">
             {{ $t('about') }}
         </locale-link>
+        <locale-link
+            to="/sponsor"
+            :class="getPageClassesByPath('sponsor', true)"
+        >
+            {{ $t('sponsor') }}
+        </locale-link>
         <nav-bar-item-dropdown
             :label="$t('speaking')"
             :items="speakingItems"
             :class="getPageClassesByPath('speaking')"
         >
         </nav-bar-item-dropdown>
+        <!--
         <nav-bar-item-dropdown
             :label="$t('conference')"
             :items="conferenceItems"
@@ -36,6 +43,7 @@
         >
             {{ $t('covid19Guidelines') }}
         </locale-link>
+        -->
     </nav>
 </template>
 
